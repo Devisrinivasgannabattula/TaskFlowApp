@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "user_id": "david_nit",
+      "user_name": "David",
+      "password": "david11",
+      "email": "david@outlook.com",
+      "id": "opJm8eaHf8E"
+    },
+    {
+      "user_id": "john_12",
+      "user_name": "John",
+      "password": "john",
+      "email": "john@gmail.com",
+      "id": "V3DBVOUfJqY"
+    },
+    {
+      "user_id": "Devisrinivas",
+      "user_name": "Devisrinivas",
+      "password": "123456",
+      "email": "gannabattulads@gmail.com",
+      "id": "9HTF9BYgLyY"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "TjcnPqAqlE0",
+      "title": "Attend Client Meeting",
+      "description": "Project review meeting with client",
+      "date": "2026-04-11T00:00:00.000Z",
+      "user_id": "john_12"
+    },
+    {
+      "title": "Birthday",
+      "description": "Plan party",
+      "date": "2026-04-12",
+      "user_id": "david_nit",
+      "id": "2Lxr8T2QVaA"
+    },
+    {
+      "title": "React JS",
+      "description": "Attend Project Class",
+      "date": "2026-04-21",
+      "user_id": "john_12",
+      "id": "xu6b4X0rqC8"
+    },
+    {
+      "id": "cvwMqVUc7Jw",
+      "title": "React JS Class ",
+      "description": "Attend React Project",
+      "date": "2026-04-16T00:00:00.000Z",
+      "user_id": "david_nit"
+    },
+    {
+      "id": "MRqDkF4NUcE",
+      "title": "DevSecTools",
+      "description": "For Java Full Stack Development Course ,they are offering DevSecTools to make students aware on those technologies.",
+      "date": "2026-05-21T00:00:00.000Z",
+      "user_id": "Devisrinivas"
+    },
+    {
+      "id": "P280NWgrxt4",
+      "title": "Spring Boot",
+      "description": "It is the main framework to learn a java full stack developer to get job faster.",
+      "date": "2026-06-15T00:00:00.000Z",
+      "user_id": "Devisrinivas"
+    },
+    {
+      "title": "React js",
+      "description": "It is the frontend javascript library to make client side ui ",
+      "date": "2026-05-07",
+      "user_id": "Devisrinivas",
+      "id": "0sxOXwwIIV4"
+    },
+    {
+      "title": "React js",
+      "description": "This is 2nd react js batch to learn more depth on this",
+      "date": "2026-05-16",
+      "user_id": "Devisrinivas",
+      "id": "v4qEKnZ8q0E"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
